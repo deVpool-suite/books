@@ -5,7 +5,7 @@
 
 <br/>
 
-<h1>Frappe Books</h1>
+<h1>Striker Books</h1>
 
 **Modern Accounting Made Simple**
 
